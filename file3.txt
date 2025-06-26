@@ -1,9 +1,9 @@
 3rd file.
 
-Sentence 1
-Sentence 2
-Sentence 3
-Sentence 4
+Sentence main
+Sentence second
+Sentence third
+Sentence forth
 
 Sentence 5
 Sentence 6
