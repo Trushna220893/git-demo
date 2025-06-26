@@ -5,6 +5,6 @@ Sentence second
 Sentence third
 Sentence forth
 
-Sentence 5
-Sentence 6
-Sentence 7
+Sentence fifth
+Sentence sixth
+Sentence seventh
